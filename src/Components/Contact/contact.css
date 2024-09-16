@@ -1,0 +1,11 @@
+.email, .call {
+    font-weight: var(--font-bold);
+}
+
+.contact__container {
+    margin-left: 10px;
+}
+
+.email i, .call i {
+    margin-right: 10px;
+}

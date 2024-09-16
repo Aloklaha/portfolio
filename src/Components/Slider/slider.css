@@ -1,0 +1,14 @@
+
+.slider__card {
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
+.slider__img {
+    transform: scale(1);
+    transition: .3s;
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
